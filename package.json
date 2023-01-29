@@ -1,6 +1,6 @@
 {
   "name": "polyfill-json-stringify-omit-null-value",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Change original JSON.stringify method to omit null values by default",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/leandroluk/polyfill-json-stringify-omit-null-value.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "polyfill",
+    "stringify",
+    "omit",
+    "null"
+  ],
+  "author": {
+    "email": "leandroluk@gmail.com",
+    "name": "Leandro S. Goems",
+    "url": "https://www.linkedin.com/in/leandroluk"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/leandroluk/polyfill-json-stringify-omit-null-value/issues"
